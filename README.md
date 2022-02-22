@@ -1,7 +1,5 @@
 # KaseiCoin
 
-# Joint-Savings-
-
 
 ![joint_savings_hero](Execution_Results/Smart_contract.jpg)
 
@@ -18,6 +16,8 @@ Solidity smart contract that accepts two user addresses. These addresses will be
 * [Solidity](https://docs.soliditylang.org/en/v0.8.11/) 
 
 * [Remix](https://remix.ethereum.org/) 
+
+* [OpenZeppelin](https://openzeppelin.com/)
 
 ---
 
@@ -54,6 +54,7 @@ Last to withdraw and last withdraaw amount
 ![KaseiCoinToken](images/KaseiCoinToken.jpg)
 
 ![KaseiCoinToken](images/KaseiCoinCrowdsale.jpg)
+
 ---
 
 ## Contributors
