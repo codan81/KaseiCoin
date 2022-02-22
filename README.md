@@ -3,9 +3,12 @@
 
 ![joint_savings_hero](images/KASEI.jpg)
 
-This smart contract principal function is to automate financial processes, such as hosting joint savings accounts.
+KaseiCoin will be a fungible token that is ERC-20 compliant. and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
-Solidity smart contract that accepts two user addresses. These addresses will be able to control a joint savings account. The smart contract will use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features will consist of the ability to deposit and withdraw funds from the account.
+The crowdsale contract will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KSEI, or KaseiCoin tokens. the contract will mint the tokens automatically and distribute them to buyers in one transaction. Crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
+
+
+
 
 
 
@@ -23,17 +26,21 @@ Solidity smart contract that accepts two user addresses. These addresses will be
 
 ## Usage
 
-This is a basic smart contract setup that shows the use of the implemented functions such as  set up accounts, deposit, withdraw, balance check, last transaction address and amount the following images demonstrate  an example of the mentioned functions the rest of the transactions will be found in the (Execution_Results) folder
+This is a Crowdsale smart contract setup that allows the use of the implemented functions such as  Buy, transfer, Balance, Total Supply check, the following images and video demonstrate an example of the mentioned functions 
 
 ---
 
 ## Evaluation Evidence:
+Successful compile of KaseiCoinToken contract
 
 ![KaseiCoinToken](images/KaseiCoinToken.jpg)
 
+Successful compile of KaseiCoinCrowdsale contract
+
 ![KaseiCoinToken](images/KaseiCoinCrowdsale.jpg)
 
-[KaseiCoinToken](images/https://youtu.be/K5aZZ8FO1CY)
+## Kasei video recording
+[KaseiCoinToken](https://youtu.be/K5aZZ8FO1CY)
 
 ---
 
