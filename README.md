@@ -33,7 +33,7 @@ This is a basic smart contract setup that shows the use of the implemented funct
 
 ![KaseiCoinToken](images/KaseiCoinCrowdsale.jpg)
 
-[KaseiCoinToken](images/Screen Recording 2022-02-21 at 7.51.20 PM)
+[KaseiCoinToken](images/https://youtu.be/K5aZZ8FO1CY)
 
 ---
 
