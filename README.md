@@ -1,7 +1,7 @@
 # KaseiCoin
 
 
-![joint_savings_hero](Execution_Results/Smart_contract.jpg)
+![joint_savings_hero](images/KASEI.jpg)
 
 This smart contract principal function is to automate financial processes, such as hosting joint savings accounts.
 
@@ -25,28 +25,6 @@ Solidity smart contract that accepts two user addresses. These addresses will be
 
 This is a basic smart contract setup that shows the use of the implemented functions such as  set up accounts, deposit, withdraw, balance check, last transaction address and amount the following images demonstrate  an example of the mentioned functions the rest of the transactions will be found in the (Execution_Results) folder
 
-Set up accounts
-
-![Set_up](Execution_Results/set_account.jpg)
-
-
-1 eth Deposit and balance transactions  
-
-![1eth_deposit](Execution_Results/deposit_1eth.jpg)
-
-![1eth_balance](Execution_Results/1eth_balance.jpg)
-
-
-10 eth withdraw and balance transaction  
-
-![10eth_withdraw](Execution_Results/withdraw_10eth.jpg)
-
-![10eth_balance](Execution_Results/withddraw_10eth_balance.jpg)
-
-Last to withdraw and last withdraaw amount 
-
-![last 2 ](Execution_Results/accountbalance_&_lasttowithdraw.jpg)
-
 ---
 
 ## Evaluation Evidence:
@@ -54,6 +32,8 @@ Last to withdraw and last withdraaw amount
 ![KaseiCoinToken](images/KaseiCoinToken.jpg)
 
 ![KaseiCoinToken](images/KaseiCoinCrowdsale.jpg)
+
+[KaseiCoinToken](images/Screen Recording 2022-02-21 at 7.51.20 PM)
 
 ---
 
