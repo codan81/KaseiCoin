@@ -1,3 +1,5 @@
+pragma solidity ^0.5.0;
+
 //  Import the following contracts from the OpenZeppelin library:
 //    * `ERC20`
 //    * `ERC20Detailed`
@@ -16,7 +18,6 @@ contract KaseiCoin is ERC20, ERC20Detailed, ERC20Mintable{
         ERC20Detailed(name, symbol, 18)
         public
     {
-        // can be empty!
-        _mint(msg.sender, initial_supply);
+              _mint(msg.sender, initial_supply);
     }
 }    

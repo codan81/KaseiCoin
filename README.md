@@ -3,7 +3,7 @@
 
 ![joint_savings_hero](images/KASEI.jpg)
 
-KaseiCoin will be a fungible token that is ERC-20 compliant. and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
+KaseiCoin the currency of the new monetary system for the new Mars colony, will be a fungible token that is ERC-20 compliant. and that will be minted by using a Crowdsale contract from the OpenZeppelin Solidity library.
 
 The crowdsale contract will manage the entire crowdsale process, allowing users to send ether to the contract and in return receive KSEI, or KaseiCoin tokens. the contract will mint the tokens automatically and distribute them to buyers in one transaction. Crowdsale that will allow people who are moving to Mars to convert their earthling money to KaseiCoin.
 
@@ -21,6 +21,17 @@ The crowdsale contract will manage the entire crowdsale process, allowing users 
 * [Remix](https://remix.ethereum.org/) 
 
 * [OpenZeppelin](https://openzeppelin.com/)
+
+---
+
+##Imports
+
+import "./KaseiCoinToken.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/Crowdsale.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/emission/MintedCrowdsale.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/validation/CappedCrowdsale.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/validation/TimedCrowdsale.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5.0/contracts/crowdsale/distribution/RefundablePostDeliveryCrowdsale.sol";
 
 ---
 
