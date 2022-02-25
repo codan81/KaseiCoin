@@ -37,7 +37,7 @@ import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/release-v2.5
 
 ## Usage
 
-This is a Crowdsale smart contract setup that allows the use of the implemented functions such as  Buy, transfer, Balance, Total Supply check, the following images and video demonstrate an example of the mentioned functions 
+This is a Crowdsale smart contract setup that allows the use of the implemented functions such as  Buy, transfer, Balance, Total Supply check, also the use of OpenZeppelin allowed to extend the functionality of the crowdsale contract by adding time restrictions, refund capabilities, and a cap for the number of tokens that may be created. The following images and video recording demonstrates an example of the mentioned ERC Token functions 
 
 ---
 
@@ -52,6 +52,9 @@ Successful compile of KaseiCoinCrowdsale contract
 
 ## Kasei video recording
 [KaseiCoinToken](https://youtu.be/K5aZZ8FO1CY)
+
+## Added functionality visible tokens at MetaMask
+![KaseiCoinToken](images/MM_KSEI.jpg)
 
 ---
 
